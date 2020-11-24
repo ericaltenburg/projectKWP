@@ -6,4 +6,4 @@ The project was really just me messing around and seeing if I can do something i
 
 ### To Run:
 
-`python3 runner.py <Name of the deck>`
+`$ python3 runner.py <Name of the deck>`
