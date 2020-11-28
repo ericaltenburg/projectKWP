@@ -4,6 +4,6 @@ This is a pretty bad implementation of a "stock bot" where I make a URL request 
 
 The project was really just me messing around and seeing if I can do something in a silly way. Turns out I can.
 
-### To Run:
+### Usage:
 
 `$ python3 runner.py <Name of the deck>`
